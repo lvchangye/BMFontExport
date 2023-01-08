@@ -1,0 +1,25 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "*.lua": "lua",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "forward_list": "cpp",
+        "functional": "cpp",
+        "system_error": "cpp",
+        "iostream": "cpp",
+        "xtree": "cpp",
+        "locale": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "fstream": "cpp",
+        "xiosbase": "cpp",
+        "filesystem": "cpp"
+    }
+}

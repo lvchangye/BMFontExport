@@ -7,7 +7,7 @@ Every png's name last character(without extension) will be used for unicode code
 
 # Dependency
 Opencv: Install it from https://opencv.org/releases/, add bin path to your environment PATH  
-Boost: Download from https://boostorg.jfrog.io/artifactory/main/release/,add boost root path to your environment with BOOST_ROOT.  
+Boost: Download from https://boostorg.jfrog.io/artifactory/main/release/, add boost root path to your environment with BOOST_ROOT.  
 
 # Test
 You can test with "BMFont.exe testfolder".  

@@ -1,5 +1,5 @@
 # BMFontExport for Win
-Make Bitmap png&amp;fnt from folder
+Make Bitmap png&amp;fnt from folder.
 The output file name is same as INPUT_FOLDER name with png/fnt suffix.
 Every png's name last character(without extension) will be used for unicode code
 
